@@ -1,4 +1,4 @@
-# Lab 4 - *Name of App Here*
+# Lab 4 - *ParseChat*
 
 **Name of your app** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
