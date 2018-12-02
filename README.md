@@ -2,7 +2,7 @@
 
 **Name of your app** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
